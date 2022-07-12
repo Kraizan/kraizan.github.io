@@ -1,0 +1,134 @@
+{
+    "basics": {
+        "name": "Vanshaj Bhatnagar",
+        "label": "Student",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQECesybCMtiVw/profile-displayphoto-shrink_400_400/0/1623322883815?e=1663200000&v=beta&t=E3yGqfDRGSuC8yK9IzxcT3Z8n4RwiNHqvw9aB1rkWvA",
+        "email": "20121kucp1017@iiitkota.ac.in",
+        "phone": "+917727984699",
+        "website": "",
+        "summary": "I'm a fresher at IIIT Kota - CSE, who is highly passionate about coding in general. Currently, I intend to improve upon my logical skills with DSA and continuing with my web development using React.",
+        "location": {
+            "address": "Ajmer Road",
+            "postalCode": "302021",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            }
+            {
+                "network": "Github",
+                "username": "Kraizan",
+                "url": "https://github.com/Kraizan"
+            },
+            {
+                "network": "linkedin",
+                "username": "vanshaj-bhatnagar-a0969a214",
+                "url": "https://www.linkedin.com/in/vanshaj-bhatnagar-a0969a214/"
+            },
+            {
+                "network": "Instagram",
+                "username": "vanshajbhatnagar",
+                "url": "https://instagram.com/vanshajbhatnagar"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Junior Executive",
+            "website": "https://iiitiansnetwork.com",
+            "startDate": "March 2022",
+            "endDate": "",
+            "summary": "Creator and administor of the offical discord server of IIITians Network."
+        },
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.74",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "1664th Rank in Kick Start 2022",
+            "awarder": "Google",
+            "date": ""
+        },
+        {
+            "title": "Intel AI 4 Youth member",
+            "awarder": "Intel",
+            "date": "2021"
+        },
+        {
+            "title": "INOI participant",
+            "awarder": "IARCS",
+            "date": "2021"
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "e-Learning And Data Analytics Lab",
+            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
+            "link": "https://eldalab.in"
+        },
+        {
+            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": "https://github.com/thegauravparmar/Stock_Crypto_Whatsapp_Bot"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Node",
+                "Express",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "Python",
+                "Dart",
+                "Flutter"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Football","Athletics","Badminton"
+            ]
+        },
+    ]
+}
